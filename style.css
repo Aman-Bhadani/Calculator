@@ -1,0 +1,60 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    font-size: 37px;
+    height: 96px;
+    width: 560px;
+    border: 5px solid rgba(130, 130, 238, 0.432);
+    border-radius: 10px;
+}
+
+.cover{
+    display: inline-block;
+    border: 10px solid black;
+    background-color: rgba(194, 11, 185, 0.548);
+    padding: 23px;
+    border-radius: 50px;
+    
+}
+
+.btn{
+
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    background-color:red;
+    height: 86px;
+    width: 142px;
+    border-radius: 35px;
+    cursor: pointer;
+    transition: ease-out 0.2s;
+    box-shadow: inset 0 0 0 0 #f9e506;
+    
+}
+.btn:hover{
+
+    box-shadow: inset 300px 0 0 0 #f9e506;
+    font-weight: bold;
+    border: 2px solid #42FBF2;
+    font-size: x-large;
+
+}
+
+ .operator{
+     background-color: rgba(28, 214, 28, 0.836);
+     font-size: 40px;
+ }
+.special{
+    background-color: rgba(57, 9, 112, 0.986)
+}
+.left{
+    background-color:blue;
+    font-size: 25px;
+}
